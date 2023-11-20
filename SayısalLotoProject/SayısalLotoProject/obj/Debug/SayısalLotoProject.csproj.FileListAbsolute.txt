@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\bin\Debug\SayısalLotoProject.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\bin\Debug\SayısalLotoProject.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\bin\Debug\SayısalLotoProject.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\obj\Debug\SayısalLotoProject.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\obj\Debug\SayısalLotoProject.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\obj\Debug\SayısalLotoProject.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\obj\Debug\SayısalLotoProject.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\obj\Debug\SayısalLotoProject.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\obj\Debug\SayısalLotoProject.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project24\SayısalLotoProject\SayısalLotoProject\obj\Debug\SayısalLotoProject.pdb
